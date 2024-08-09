@@ -1,7 +1,7 @@
 {
-  "name": "warzone-api",
+  "name": "pvparcade-api",
   "version": "1.0.0",
-  "description": "The API for the Warzone gamemode.",
+  "description": "The API for the PVP Arcade team games mode.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WarzoneMC/API.git"
+    "url": "git+https://github.com/Solidarietas/TGM-API.git"
   },
   "author": "lukechatton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WarzoneMC/API/issues"
+    "url": "https://github.com/Solidarietas/TGM-API/issues"
   },
-  "homepage": "https://github.com/WarzoneMC/API#readme",
+  "homepage": "https://github.com/Solidarietas/TGM-API#readme",
   "dependencies": {
     "express": "^4.15.2",
     "jsonwebtoken": "^7.4.0",

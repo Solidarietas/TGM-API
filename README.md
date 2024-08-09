@@ -1,5 +1,5 @@
 # API
-Warzone's HTTP backend implementation.
+PVP Arcade's HTTP backend implementation.
 
 
 ## Example configuration file (`config.json`):
